@@ -1246,18 +1246,18 @@
     "maintenanceSchedule": "Brush daily without exception, full comb-through every other day, eye area trim as needed, ear cleaning weekly with ear hair removal, nail trim every 3-4 weeks. Professional groom with haircut every 6-8 weeks -- schedule extra time for this breed."
   },
   "Pomsky": {
-    "brushingRoutine": "Brush 3-4 times weekly with a slicker brush and undercoat rake. Their double coat combines the Pomeranian's dense fluff with the Husky's thick undercoat, creating impressive shedding volume for a smaller dog. Use a pin brush for the outer coat and an undercoat rake to reach the dense under layer.",
-    "bathingTips": "Bathe every 4-6 weeks with a deshedding shampoo and conditioner system. Their double coat requires thorough soaking and even more thorough rinsing -- residue trapped in the undercoat causes irritation. High-velocity blow-drying is essential to remove loose undercoat and ensure complete drying.",
+    "brushingRoutine": "Pomskies (Pomeranian x Siberian Husky) inherit a stunning double coat from both parent breeds, creating one of the densest coats among designer breeds. Brush thoroughly 3-4 times per week with a pin brush for the topcoat and an undercoat rake for the dense underlayer. During shedding season, daily brushing is mandatory. A deshedding tool is essential but should be used carefully to avoid damaging the topcoat. Work in sections, always brushing in the direction of hair growth.",
+    "bathingTips": "Bathe every 6-8 weeks unless visibly dirty -- both parent breeds have self-cleaning coats with natural oils that should not be stripped through frequent bathing. Use a deshedding shampoo and conditioner system to loosen the undercoat. A high-velocity dryer is critical for blowing out loose undercoat and ensuring complete drying of the dense double coat. Never air-dry a Pomsky -- trapped moisture leads to hot spots and mildew odor.",
     "commonIssues": [
-      "Heavy shedding that surprises owners expecting a small, low-maintenance dog",
-      "Double coat blowouts twice yearly are significant",
-      "Matting in the undercoat if brushing is inconsistent",
-      "Dry skin from over-bathing or Houston's seasonal changes",
-      "Coat texture varies widely depending on which parent breed dominates"
+      "Intense seasonal shedding (coat blowout) twice yearly that can last 4-6 weeks",
+      "Undercoat matting if not consistently maintained between professional grooms",
+      "Skin dryness and flaking from over-bathing or harsh shampoos",
+      "Temperature regulation challenges in warm climates due to heavy double coat",
+      "Tear staining common in lighter-colored Pomskies"
     ],
-    "extendResults": "Use a high-velocity dryer during home grooming sessions to blow out loose undercoat -- this reduces shedding between professional grooms significantly. Apply a coat conditioning spray before brushing. A professional deshedding treatment every 6-8 weeks makes a dramatic difference in household shedding levels.",
-    "seasonalCare": "Heavy coat blowouts in spring and fall -- daily brushing required for 2-3 weeks during these transitions. Houston heat requires coat maintenance for insulation but never shave the double coat. Summer grooming sessions should include thorough undercoat removal. Winter coat is at its densest and most impressive.",
-    "maintenanceSchedule": "Brush 3-4 times weekly, daily during blowouts, undercoat rake session twice weekly, nail trim every 3-4 weeks, ear cleaning weekly. Professional deshedding groom every 6-8 weeks."
+    "extendResults": "Invest in a high-velocity dryer for home use to blow out loose undercoat between professional grooms. Use a deshedding spray before each brushing session to lubricate the coat and reduce static. Keep the sanitary area and paw pads trimmed at home for hygiene. During coat blowout season, a professional deshedding bath and blowout at 3 weeks between full grooms is worth the investment. Cover furniture with washable throws during heavy shedding periods.",
+    "seasonalCare": "Pomskies blow their undercoat dramatically in spring and fall, and this is their most demanding grooming period. In spring, the heavy winter undercoat sheds in clumps and daily raking is essential. In summer, never shave a Pomsky -- the double coat insulates against heat and UV. Keep them cool with shade, water access, and air conditioning. In winter, the coat thickens substantially and looks its best but still needs regular brushing to prevent the dense undercoat from felting.",
+    "maintenanceSchedule": "Professional grooming every 6-8 weeks, with additional deshedding appointments during coat blowout seasons. Brushing 3-4 times weekly, daily during shedding seasons. Ear cleaning weekly. Nail trims every 3-4 weeks. Paw pad trims every 3-4 weeks. Tear stain management as needed."
   },
   "German Shorthaired Pointer": {
     "brushingRoutine": "Brush weekly with a rubber curry brush or bristle brush. Their short, dense, water-repellent coat is remarkably low-maintenance. A grooming mitt works well for quick daily rubdowns that remove loose hair and distribute natural oils. During shedding season, increase to 2-3 times weekly with a deshedding tool.",
@@ -3315,5 +3315,411 @@
     "extendResults": "A weekly coat conditioning spray with aloe or oatmeal soothes sensitive skin and adds shine. For white dogs, apply whitening spray weekly. Omega-3 supplements significantly improve skin condition in this allergy-prone breed. A chamois buff after brushing brings out the coat's natural hard gloss. Monitor for skin reactions after walks in grass.",
     "seasonalCare": "Sheds lightly to moderately year-round with slight increase in spring. In Houston summers, apply pet-safe sunscreen on white and light-colored areas before outdoor time. The short coat handles heat well. In winter, provide a coat or sweater for outdoor walks as the thin single coat provides minimal insulation.",
     "maintenanceSchedule": "Brush once weekly with rubber curry and bristle brush. Apply sunscreen on light areas before outdoor time. Bathe every 6-8 weeks. Clean ears weekly. Trim nails every 2-3 weeks. Professional bath every 6-8 weeks."
+  },
+  "Pomapoo": {
+    "brushingRoutine": "Pomapoos can inherit the Pomeranian's dense double coat, the Poodle's curly single coat, or a wavy blend of both. Brush daily with a slicker brush to prevent tangles, paying extra attention to behind the ears, chest, and leg feathering where mats form first. A fine-tooth comb should follow every slicker session to catch hidden knots close to the skin. For curlier-coated Pomapoos, a pin brush works well for fluffing after detangling.",
+    "bathingTips": "Bathe every 3-4 weeks using a gentle, moisturizing shampoo formulated for fine or curly coats. Pomapoos with more Pomeranian-type coats benefit from a volumizing conditioner, while curlier coats need a detangling conditioner worked through thoroughly before rinsing. Always blow-dry completely on a low heat setting, as air-drying can cause matting in both coat types.",
+    "commonIssues": [
+      "Matting behind ears and in armpits due to fine, dense coat texture",
+      "Tear staining around the eyes, especially in lighter-colored Pomapoos",
+      "Skin irritation from trapped moisture if not fully dried after bathing",
+      "Dental buildup common in small breeds requiring regular dental hygiene",
+      "Patellar luxation awareness -- gentle handling during grooming sessions"
+    ],
+    "extendResults": "Apply a light leave-in conditioning spray every 2-3 days between grooms to keep the coat manageable and reduce static. Use a silk or satin pet bed cover to minimize friction-based tangles overnight. Spot-brush problem areas daily rather than waiting for full grooming sessions, and keep sanitary areas trimmed to maintain cleanliness between professional visits.",
+    "seasonalCare": "Pomapoos with double coats shed more noticeably in spring and fall. During these periods, increase brushing to twice daily and consider adding an undercoat rake to your routine. In Houston's summer heat, keep the coat trimmed shorter but never shaved to the skin, as the coat provides UV protection. Winter care is minimal in warm climates but a light moisturizing spray prevents dry coat from indoor heating.",
+    "maintenanceSchedule": "Professional grooming every 5-6 weeks. Daily brushing at home with a slicker brush and comb. Weekly ear checks and cleaning. Monthly nail trims. Tear stain cleaning 2-3 times per week for light-colored dogs. Sanitary trim touch-ups as needed between appointments."
+  },
+  "Whoodle": {
+    "brushingRoutine": "Whoodles (Wheaten Terrier x Poodle) typically develop a soft, wavy to curly coat that mats easily if neglected. Brush daily with a slicker brush, working in sections from the skin outward to prevent mat formation at the base. Follow with a steel comb to verify no tangles remain, especially around the beard, legs, and underbelly. A dematting comb is useful for any knots that have started to tighten.",
+    "bathingTips": "Bathe every 3-4 weeks with a hypoallergenic, sulfate-free shampoo to preserve the coat's natural softness. Both parent breeds have coats prone to dryness, so always use a rich conditioner and leave it on for 3-5 minutes before rinsing. Whoodle beards can harbor bacteria and odor, so clean the facial hair with a damp cloth between baths.",
+    "commonIssues": [
+      "Rapid matting in the leg furnishings, beard, and behind ears",
+      "Ear infections due to heavy ear leather and hair growth in the canal",
+      "Beard staining and odor from food and water contact",
+      "Skin sensitivities inherited from the Wheaten Terrier side",
+      "Eye irritation from overgrown facial hair if not trimmed regularly"
+    ],
+    "extendResults": "Keep the beard and eye area wiped clean after meals to prevent staining and odor buildup. Apply an anti-tangle spray before daily brushing to reduce breakage and make sessions more comfortable. Schedule a mid-cycle face and feet trim at 3 weeks to maintain a clean appearance without a full groom. Use a snood during meals to protect the beard from food debris.",
+    "seasonalCare": "Whoodles are low-shedding year-round, making seasonal coat changes minimal. However, summer humidity in warm climates can cause the coat to hold moisture and mat faster, so keep the body clip shorter during hot months. In winter, a slightly longer coat is fine but requires more diligent brushing. Watch for seasonal allergies that can cause itching and hot spots, particularly in spring.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks. Daily brushing is non-negotiable for this coat type. Beard cleaning after every meal. Ear cleaning weekly with a veterinary-approved solution. Nail trims every 3-4 weeks. Eye area trimming as needed to maintain visibility."
+  },
+  "Springerdoodle": {
+    "brushingRoutine": "Springerdoodles (English Springer Spaniel x Poodle) can range from the Springer's medium-length wavy coat to the Poodle's tight curls, with most falling somewhere in between. Brush every day using a slicker brush for the body and a pin brush for the longer feathering on the ears, chest, and legs. The ear feathering is particularly prone to matting and burrs, so comb through it carefully with a steel comb after every outdoor session.",
+    "bathingTips": "Bathe every 3-4 weeks with a moisturizing shampoo designed for medium to long coats. Springerdoodles with more Springer influence may have a slightly oilier coat that benefits from a clarifying shampoo every other bath. Always use conditioner on the feathered areas to keep them soft and tangle-free. Dry thoroughly with a high-velocity dryer, especially the dense ear hair.",
+    "commonIssues": [
+      "Severe ear matting and infections due to long, heavy ear leather from both parent breeds",
+      "Burrs and debris trapped in leg and belly feathering after outdoor play",
+      "Hot spots from moisture trapped under the dense coat in humid climates",
+      "Excessive ear hair growth inside the canal requiring regular plucking",
+      "Coat blowing or texture changes during adolescence (8-14 months)"
+    ],
+    "extendResults": "Keep ear feathering trimmed to a manageable length between professional grooms to reduce mat formation and debris collection. Apply a detangling spray before outdoor activities to help prevent burrs from clinging. Dry the ears thoroughly after swimming or baths, and consider using an ear drying powder. Trim the paw pads and sanitary areas at home every 2-3 weeks.",
+    "seasonalCare": "Springerdoodles with more Springer coat influence shed moderately in spring and fall. During shedding season, add an undercoat rake to your daily routine. In summer, keep the body trimmed shorter while maintaining enough length for sun protection. These dogs love water, so during swimming season, always rinse and dry thoroughly after to prevent hot spots and ear infections.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks. Daily brushing with extra attention to feathered areas. Ear checks and cleaning twice weekly. Nail trims every 3-4 weeks. Paw pad and sanitary trims every 2-3 weeks at home. Post-swim rinse and dry every time."
+  },
+  "Irish Doodle": {
+    "brushingRoutine": "Irish Doodles (Irish Setter x Poodle) often inherit a gorgeous, wavy to curly red coat that requires dedicated daily brushing. Use a slicker brush over the entire body, working in layers to get down to the skin. The long, silky feathering on the ears, chest, belly, and tail inherited from the Setter side is especially mat-prone and needs careful attention with a steel comb. A pin brush works well for finishing and adding volume to the coat.",
+    "bathingTips": "Bathe every 3-4 weeks with a color-enhancing or moisturizing shampoo that preserves the rich red tones without stripping natural oils. Use a lightweight conditioner to keep the coat silky without weighing it down. Avoid harsh whitening or clarifying shampoos that can dull the distinctive red coloring. Blow-dry on medium heat using a slicker brush to straighten and separate the coat.",
+    "commonIssues": [
+      "Matting in the ear feathering, armpits, and behind the rear legs",
+      "Color fading from sun exposure or harsh grooming products",
+      "Ear infections from heavy, pendulous ears that trap moisture",
+      "Coat texture changes during the puppy-to-adult coat transition",
+      "Skin dryness if bathed too frequently or with stripping shampoos"
+    ],
+    "extendResults": "Use a UV-protective spray to preserve the rich red coat color, especially during summer months. Apply a light leave-in conditioner to feathered areas every few days to keep them manageable. Schedule a mid-cycle ear and face tidy at 3 weeks to keep the dog looking polished. Rinse the belly and legs with plain water after muddy outings rather than waiting for a full bath.",
+    "seasonalCare": "Irish Doodles with more Setter influence will shed moderately in spring and fall, while Poodle-dominant coats remain low-shedding. In summer heat, a moderate trim is appropriate but preserve enough coat for sun protection, as the red coat can be prone to sunburn on exposed skin. Winter coats may grow denser and require more frequent detangling. Watch for seasonal allergies that show up as itchy skin or ear problems.",
+    "maintenanceSchedule": "Professional grooming every 5-6 weeks. Daily brushing focusing on feathered areas. Ear cleaning weekly. Nail trims every 3-4 weeks. Teeth cleaning 2-3 times weekly. Mid-cycle face and feet tidy recommended at week 3."
+  },
+  "Saint Berdoodle": {
+    "brushingRoutine": "Saint Berdoodles (Saint Bernard x Poodle) are large dogs with coats ranging from the Saint Bernard's dense, smooth or rough double coat to the Poodle's curly coat, with many having a thick, wavy blend. Brush thoroughly every day using a large slicker brush for the body and a steel comb for the face, legs, and underbelly. For rough-coat types, an undercoat rake is essential to prevent the dense undercoat from matting against the skin. Given their size, plan for 20-30 minute brushing sessions.",
+    "bathingTips": "Bathe every 4-6 weeks with a deep-cleaning, moisturizing shampoo appropriate for thick coats. Due to their size, a high-velocity dryer is essential -- air-drying is not an option as trapped moisture in the dense coat leads to skin problems. Use a heavy conditioner and work it deep into the coat. Consider a waterless shampoo or grooming wipes for spot cleaning between baths, especially around the jowls and beard where drool accumulates.",
+    "commonIssues": [
+      "Drool staining and matting around the jowls and chest from Saint Bernard genetics",
+      "Severe matting in the dense undercoat if brushing is skipped even a few days",
+      "Skin fold infections in facial wrinkles inherited from the Saint Bernard",
+      "Joint sensitivity during grooming due to large breed orthopedic concerns",
+      "Excessive shedding in double-coated individuals during seasonal changes"
+    ],
+    "extendResults": "Keep a drool cloth handy and wipe the jowl area multiple times daily to prevent staining and bacterial buildup. Use a waterproof bib or bandana during meals to protect the chest coat. Apply a conditioning spray before brushing to reduce coat stress and make sessions easier on this large breed. Keep the sanitary area and paw pads trimmed at home to maintain hygiene between professional grooms.",
+    "seasonalCare": "Saint Berdoodles with double coats experience heavy shedding in spring and fall, requiring daily undercoat raking during these periods. In summer, never shave a double-coated Saint Berdoodle -- the undercoat provides insulation against heat. Keep them cool with a shorter trim on top while preserving the undercoat structure. In winter, the coat naturally thickens and requires more frequent brushing to prevent dense mats from forming close to the skin.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks (size and coat density may require extended appointments). Daily brushing at 20-30 minutes per session. Facial fold cleaning daily. Drool management ongoing. Ear cleaning weekly. Nail trims every 2-3 weeks. Paw pad trims every 2-3 weeks."
+  },
+  "Newfypoo": {
+    "brushingRoutine": "Newfypoos (Newfoundland x Poodle) carry massive, thick coats that can range from the Newfoundland's dense, water-resistant double coat to the Poodle's curly single coat. Most Newfypoos develop a thick, wavy coat that requires 30+ minutes of daily brushing. Use a large slicker brush in sections, followed by an undercoat rake for double-coated individuals, and finish with a steel comb to verify no mats remain. Pay special attention to the chest, behind the ears, and the thick ruff around the neck.",
+    "bathingTips": "Bathe every 4-6 weeks with a heavy-duty moisturizing shampoo formulated for thick, water-resistant coats. The Newfoundland coat has natural oils that repel water, so you may need to shampoo twice to get a thorough clean. Use a rich conditioner and let it soak for 5 minutes. A high-velocity dryer is absolutely essential -- this coat can take 45-60 minutes to dry completely, and any residual moisture will cause skin issues and odor.",
+    "commonIssues": [
+      "Extreme matting potential due to the combination of density and length",
+      "Water retention in the thick coat leading to hot spots and fungal issues",
+      "Heavy shedding in double-coated individuals that clogs even professional dryers",
+      "Drool and food debris matting into the chest and beard area",
+      "Grooming fatigue for the dog -- sessions must be broken into comfortable segments"
+    ],
+    "extendResults": "Invest in a high-velocity pet dryer for home use, as thorough drying between professional grooms is critical for this coat type. Apply a leave-in detangling conditioner after every outdoor activity, especially swimming. Keep the belly, sanitary area, and behind-the-ear zones trimmed shorter between grooms to reduce mat risk in the highest-friction areas. Use a grooming spray before every brushing session to protect the coat and reduce static.",
+    "seasonalCare": "Newfypoos with Newfoundland-dominant coats blow their undercoat heavily in spring, requiring daily deshedding sessions with an undercoat rake for 4-6 weeks. Never shave a double-coated Newfypoo in summer -- the undercoat insulates against heat. Keep the coat well-maintained at a moderate length and ensure shade and water access. In winter, the coat thickens substantially and matting risk increases, especially if the dog plays in rain or snow.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks (expect extended appointment times due to coat volume and dog size). Daily brushing at 30+ minutes. Complete drying after any water exposure. Ear cleaning weekly. Nail trims every 2-3 weeks. Sanitary and paw pad trims every 2 weeks at home."
+  },
+  "Bordoodle": {
+    "brushingRoutine": "Bordoodles (Border Collie x Poodle) can inherit the Border Collie's medium-length double coat, the Poodle's curly coat, or a popular wavy blend. Brush daily with a slicker brush, working from the skin outward in sections. For wavy and curly coats, a pin brush and steel comb combination works best for detangling without breaking the coat. Bordoodles with more Collie influence need an undercoat rake during shedding periods. Focus on the areas behind the ears, the ruff, and leg feathering.",
+    "bathingTips": "Bathe every 4-6 weeks using a balanced, pH-neutral shampoo. Bordoodles with the Collie's double coat should use a deshedding shampoo during shedding season, while curlier coats benefit from a moisturizing formula. Always condition thoroughly and rinse completely, as product residue in the dense coat leads to irritation. Blow-dry fully to prevent matting as the coat dries.",
+    "commonIssues": [
+      "Matting in the chest ruff and behind the ears where friction occurs",
+      "Static buildup in dry climates that increases tangling",
+      "Coat texture unpredictability -- siblings can have dramatically different coat types",
+      "Sensitivity to grooming if not started early due to Border Collie alertness",
+      "Skin reactions to harsh grooming products in dogs with Collie skin sensitivity"
+    ],
+    "extendResults": "Use an anti-static spray in dry weather to prevent tangles from forming between brushing sessions. Keep the paw pads trimmed and the sanitary area clipped for ongoing hygiene. Bordoodles are highly active dogs, so a post-adventure rinse and brush helps prevent debris from working into the coat and creating mats. A mid-cycle feet, face, and sanitary trim at 3 weeks keeps them looking sharp.",
+    "seasonalCare": "Bordoodles with double coats shed notably in spring and fall. During these transitions, increase brushing to twice daily and incorporate an undercoat rake. In summer, a moderate trim keeps the dog comfortable without removing the protective topcoat. Bordoodles with Poodle-dominant coats shed minimally year-round but still need consistent brushing to prevent matting. Winter coats grow denser and need extra attention to prevent undercoat matting.",
+    "maintenanceSchedule": "Professional grooming every 5-7 weeks. Daily brushing with slicker brush and comb. Weekly ear cleaning. Nail trims every 3-4 weeks. Mid-cycle face and feet tidy at week 3. Post-activity brushing after vigorous outdoor play."
+  },
+  "Corgipoo": {
+    "brushingRoutine": "Corgipoos (Corgi x Poodle) can have coats ranging from the Corgi's thick, weather-resistant double coat to the Poodle's curly coat, with many having a medium-length wavy texture. Brush every other day at minimum with a slicker brush, increasing to daily during shedding seasons. For double-coated Corgipoos, an undercoat rake is essential to remove loose undercoat without damaging the topcoat. The dense coat around the Corgi-like rump and thighs needs thorough attention.",
+    "bathingTips": "Bathe every 4-6 weeks with a moisturizing shampoo. Double-coated Corgipoos benefit from a deshedding shampoo and conditioner system during heavy shedding periods. Ensure thorough rinsing as the dense coat traps shampoo residue easily. Blow-dry completely, working from the skin outward, as the dense undercoat holds moisture that can cause skin problems if left damp.",
+    "commonIssues": [
+      "Heavy shedding in double-coated individuals, particularly around the hindquarters",
+      "Matting in the chest and behind the ears in curlier-coated Corgipoos",
+      "Difficulty reaching the belly and sanitary areas due to the low-to-ground Corgi body type",
+      "Dirt and debris accumulation on the low-hanging belly coat",
+      "Skin irritation from grass and ground contact due to short leg structure"
+    ],
+    "extendResults": "Keep the belly coat trimmed shorter to reduce debris collection from ground contact. Use a belly band or light shirt during muddy outdoor sessions to protect the coat. Apply a detangling spray before brushing to reduce stress on the coat. Regular sanitary trims every 2-3 weeks prevent hygiene issues in the low-slung body areas. Wipe the belly and legs with grooming wipes after walks.",
+    "seasonalCare": "Corgipoos with Corgi-dominant coats blow their undercoat heavily twice a year in spring and fall, requiring daily deshedding with an undercoat rake during these 4-6 week periods. In summer, keep the belly and sanitary areas trimmed but do not shave double-coated Corgipoos. Their low body means they pick up more ground-level heat, so ensure the coat is not overly dense. Winter coats fill in nicely but need consistent brushing to prevent felting.",
+    "maintenanceSchedule": "Professional grooming every 5-7 weeks. Brushing every other day minimum, daily during shedding seasons. Belly wipe-downs after outdoor play. Ear cleaning weekly. Nail trims every 3-4 weeks (critical for this short-legged breed). Sanitary trims every 2-3 weeks."
+  },
+  "Boxerdoodle": {
+    "brushingRoutine": "Boxerdoodles (Boxer x Poodle) have highly variable coats -- from the Boxer's short, smooth coat to the Poodle's curly coat, with many developing a medium-length wavy or wiry texture. Short-coated Boxerdoodles need brushing 2-3 times per week with a bristle brush or rubber curry brush. Wavy or curly-coated individuals need daily brushing with a slicker brush and steel comb. Wiry-coated Boxerdoodles may benefit from a stripping knife or pumice stone for coat maintenance.",
+    "bathingTips": "Bathe every 4-6 weeks. Short-coated Boxerdoodles do well with a general-purpose dog shampoo and minimal conditioner. Curly-coated individuals need a moisturizing shampoo and thorough conditioning. For wiry coats, avoid heavy conditioners that soften the texture -- use a texturizing shampoo instead. All coat types dry relatively quickly compared to denser doodle breeds, but still blow-dry curly coats to prevent matting.",
+    "commonIssues": [
+      "Skin fold irritation around the face if Boxer facial structure is inherited",
+      "Allergies and skin sensitivities common from both parent breeds",
+      "Coat texture changes during the first year making grooming needs unpredictable",
+      "Muscular build makes restraint during grooming challenging if not trained early",
+      "Excessive shedding in short-coated individuals despite Poodle parentage"
+    ],
+    "extendResults": "For short-coated Boxerdoodles, a rubber curry brush used 2-3 times weekly manages shedding effectively between grooms. For curlier coats, apply a light leave-in conditioner every few days to maintain manageability. Clean facial folds daily if present. Use a hypoallergenic grooming wipe between baths to manage the skin sensitivities common in this mix. Keep nails trimmed consistently as Boxerdoodles are active and nail overgrowth affects their gait.",
+    "seasonalCare": "Short-coated Boxerdoodles shed steadily year-round with slight increases in spring and fall. Curly-coated individuals are more low-shedding but need consistent brushing regardless of season. In summer, short-coated Boxerdoodles may need dog-safe sunscreen on the nose and thin-coated areas, especially lighter-colored dogs. Winter care is minimal but moisturize dry skin from indoor heating.",
+    "maintenanceSchedule": "Professional grooming every 6-8 weeks for curly coats, every 8-10 weeks for short coats. Brushing 2-7 times weekly depending on coat type. Facial fold cleaning daily if applicable. Ear cleaning weekly. Nail trims every 3-4 weeks. Skin check weekly for allergies."
+  },
+  "Chipoo": {
+    "brushingRoutine": "Chipoos (Chihuahua x Poodle) can have coats ranging from the Chihuahua's smooth, short coat to the Poodle's curly coat, with many developing a soft, medium-length wavy texture. Short-coated Chipoos need gentle brushing 2-3 times weekly with a soft bristle brush. Curly and wavy-coated Chipoos need daily brushing with a small slicker brush, using gentle pressure appropriate for their tiny frame. A fine-tooth comb is essential for detecting small mats around the ears and chest.",
+    "bathingTips": "Bathe every 3-4 weeks using a gentle, tearless shampoo formulated for small breeds. Chipoos are tiny and chill easily, so use warm water and dry immediately and thoroughly after bathing. A small handheld dryer on low heat works well. For curly-coated Chipoos, use a lightweight conditioner to prevent tangling. Avoid over-bathing as both parent breeds can have sensitive skin.",
+    "commonIssues": [
+      "Tear staining common due to small eye structure from both parent breeds",
+      "Dental overcrowding leading to plaque buildup and bad breath",
+      "Patellar luxation sensitivity requiring gentle leg handling during grooming",
+      "Temperature sensitivity -- Chipoos chill easily during and after baths",
+      "Skin dryness and flaking, especially in curly-coated individuals"
+    ],
+    "extendResults": "Clean tear stains daily with a pet-safe eye wipe to prevent permanent discoloration. Apply a small amount of coconut oil or a light conditioning spray to the coat between grooms to prevent dryness. Keep the face trimmed around the eyes for both visibility and stain prevention. Use a sweater after baths or in cold weather to prevent chilling. Maintain dental hygiene with small-breed dental chews or brushing 3-4 times weekly.",
+    "seasonalCare": "Chipoos with Chihuahua-dominant smooth coats shed lightly year-round with minor seasonal increases. Curly-coated Chipoos shed minimally. In summer, keep the coat manageable but never shave completely as the skin sunburns easily on these small dogs. In winter, Chipoos need protection from cold -- a coat or sweater is essential for outdoor time, and moisturize dry skin caused by indoor heating. Avoid grooming in cold environments.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks for curly coats, every 6-8 weeks for smooth coats. Daily brushing for curly coats, 2-3 times weekly for smooth. Tear stain cleaning daily. Dental care 3-4 times weekly. Nail trims every 2-3 weeks (small breed nails grow quickly relative to body size). Ear cleaning weekly."
+  },
+  "Poochon": {
+    "brushingRoutine": "Poochons (Bichon Frise x Poodle) almost always develop a dense, curly, cotton-like coat that mats rapidly without consistent care. Daily brushing is mandatory using a slicker brush, working carefully through the coat in small sections from the skin outward. Follow every session with a steel comb to catch mats forming at the base of the coat that the slicker brush may miss. The coat around the muzzle, ears, and legs is particularly prone to tangling.",
+    "bathingTips": "Bathe every 2-3 weeks -- Poochons require more frequent bathing than most doodles to keep their dense coat clean and manageable. Use a brightening or whitening shampoo for lighter-colored dogs and always follow with a moisturizing conditioner to keep the curls soft. Rinse extremely thoroughly as residue in this dense coat causes itching and flaking. Blow-dry completely using a slicker brush to straighten and separate the curls while drying.",
+    "commonIssues": [
+      "Rapid and severe matting due to the combination of Bichon and Poodle curl genetics",
+      "Tear staining that is often persistent and pronounced on the white coat",
+      "Eye irritation from overgrown facial hair that grows quickly",
+      "Dental issues common in small breeds requiring consistent oral care",
+      "Allergic skin reactions that show as hot spots under the dense coat"
+    ],
+    "extendResults": "Tear stain management is critical for Poochons -- wipe the eye area at least once daily with a pet-safe tear stain remover. Apply a detangling spray before every brushing session to protect the delicate curls. Keep the eye area trimmed every 2 weeks at home to prevent irritation. A professional face trim at 3 weeks between full grooms maintains a clean appearance. Consider a maintenance cut (shorter clip) for easier home care between grooms.",
+    "seasonalCare": "Poochons are very low-shedding year-round thanks to both parent breeds, making them a consistent grooming commitment regardless of season. In humid summer months, the dense coat can trap moisture and heat, so a shorter puppy or teddy bear clip is recommended. In winter, the coat can be left slightly longer but requires even more diligent brushing as dry indoor air causes static and tangles. Seasonal allergies may increase skin irritation under the dense coat.",
+    "maintenanceSchedule": "Professional grooming every 3-5 weeks (this breed needs more frequent professional attention). Daily brushing is non-negotiable. Tear stain cleaning daily. Facial hair trim every 2 weeks. Ear cleaning weekly. Dental care 3-4 times weekly. Nail trims every 2-3 weeks."
+  },
+  "Havapoo": {
+    "brushingRoutine": "Havapoos (Havanese x Poodle) develop a silky, wavy to curly coat that combines the Havanese's flowing texture with the Poodle's curl structure. Brush daily using a pin brush for the longer, silky sections and a slicker brush for curlier areas. A steel comb should finish every session, focusing on the beard, ears, and leg furnishings where mats form quickly. The coat has a tendency to wrap around itself, so always brush in the direction of growth from root to tip.",
+    "bathingTips": "Bathe every 3-4 weeks with a silk-protein or moisturizing shampoo that enhances the coat's natural softness. Use a lightweight detangling conditioner and comb through the coat while the conditioner is still in for best results. Rinse thoroughly and blow-dry on medium heat, using a pin brush to maintain the coat's natural wave pattern. Avoid heavy products that weigh down the fine Havanese-influenced coat texture.",
+    "commonIssues": [
+      "Fine coat texture that tangles and mats more easily than coarser doodle coats",
+      "Tear staining common in lighter-colored Havapoos",
+      "Ear infections due to profuse hair growth in and around the ear canal",
+      "Coat discoloration from saliva licking, especially on paws and legs",
+      "Sensitivity to over-brushing that can cause coat breakage in silkier types"
+    ],
+    "extendResults": "Apply a silk-finishing spray after grooming to protect the coat between sessions and add a barrier against tangles. Keep a small slicker brush on hand for quick touch-ups on problem areas throughout the day. Wipe paws after outdoor activity to reduce saliva staining from licking debris off the feet. Trim the ear hair regularly to promote airflow and reduce infection risk. A mid-cycle sanitary and face trim at 3 weeks maintains freshness.",
+    "seasonalCare": "Havapoos shed very little year-round, making them a consistent grooming commitment across all seasons. Summer humidity can cause the coat to frizz and mat faster, so apply a smoothing spray and consider a shorter trim. In winter, the coat may dry out from indoor heating -- add a weekly deep conditioning treatment to maintain coat health. Watch for increased tear staining in allergy seasons.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks. Daily brushing with pin brush and comb. Tear stain cleaning 3-4 times weekly. Ear cleaning and hair removal weekly. Nail trims every 3-4 weeks. Mid-cycle face and sanitary trim recommended."
+  },
+  "Rottle": {
+    "brushingRoutine": "Rottles (Rottweiler x Poodle) can have coats ranging from the Rottweiler's short, dense double coat to the Poodle's curly coat, with most developing a medium-length wavy or loosely curly coat. For wavy and curly coats, brush every other day with a slicker brush and steel comb. For shorter, Rottweiler-dominant coats, a bristle brush or rubber curry brush 2-3 times weekly suffices. The chest and leg areas often have longer hair regardless of overall coat type and need extra attention.",
+    "bathingTips": "Bathe every 4-6 weeks with a general-purpose moisturizing shampoo. Rottles with shorter coats can use a deshedding shampoo to manage undercoat. Curlier-coated Rottles need a conditioning shampoo to maintain curl definition and prevent dryness. These are large, muscular dogs -- use a high-velocity dryer for thorough drying, especially on denser coat areas around the chest and neck.",
+    "commonIssues": [
+      "Shedding variability -- some Rottles shed heavily despite Poodle genetics",
+      "Skin sensitivity and allergies that can manifest as hot spots under the dense coat",
+      "Strong muscular build making grooming challenging without proper handling",
+      "Oily coat tendency inherited from the Rottweiler side",
+      "Nail thickness and hardness requiring professional-grade nail trimmers"
+    ],
+    "extendResults": "For oilier Rottle coats, use a grooming wipe on the coat between baths to keep it fresh and reduce buildup. Regular deshedding sessions at home with an undercoat rake for double-coated Rottles make a significant difference in coat management. Keep nails maintained every 2 weeks as their thick nails can crack if allowed to grow too long. A mid-cycle brush-out appointment for curlier Rottles helps prevent matting between full grooms.",
+    "seasonalCare": "Rottles with double coats shed heavily in spring and fall. Daily deshedding with an undercoat rake during these periods is essential. In summer, keep the coat trimmed to a comfortable length but preserve enough for sun protection on any areas with Rottweiler-like dark pigmentation that absorbs heat. Winter coats thicken and need consistent brushing to prevent undercoat matting.",
+    "maintenanceSchedule": "Professional grooming every 5-7 weeks. Brushing every other day for curly coats, 2-3 times weekly for short coats. Nail trims every 2-3 weeks. Ear cleaning weekly. Skin and allergy checks weekly. Deshedding sessions daily during shedding season."
+  },
+  "Woodle": {
+    "brushingRoutine": "Woodles (Welsh Terrier x Poodle) typically develop a wiry to wavy coat that blends the Welsh Terrier's dense, wiry texture with the Poodle's curl. Brush every other day with a slicker brush, and use a stripping comb or stripping knife monthly for wiry-coated individuals to maintain proper coat texture. For curlier Woodles, daily brushing with a slicker brush and steel comb prevents matting. The beard and eyebrows, prominent in this mix, need regular combing to prevent food and debris buildup.",
+    "bathingTips": "Bathe every 4-6 weeks. Wiry-coated Woodles should use a texturizing shampoo that maintains the harsh coat texture rather than softening it. Curlier Woodles benefit from a moisturizing shampoo and light conditioner. Avoid heavy conditioners on wiry coats as they soften the texture and change the coat character. Blow-dry thoroughly, using a slicker brush to shape the coat.",
+    "commonIssues": [
+      "Beard and facial hair matting from food, water, and debris",
+      "Wiry coat becoming soft and losing texture from incorrect grooming products",
+      "Skin irritation under the dense coat, especially in humid conditions",
+      "Ear hair overgrowth from both parent breeds requiring regular maintenance",
+      "Stubborn tangles in the leg furnishings and underbelly"
+    ],
+    "extendResults": "Keep the beard wiped clean after every meal to prevent matting and bacterial buildup. For wiry-coated Woodles, maintain the coat texture through hand-stripping rather than clipping when possible. Apply an anti-tangle spray to leg furnishings before outdoor play. Trim ear hair monthly to promote airflow and reduce infection risk. A mid-cycle beard and eyebrow trim keeps the face looking tidy.",
+    "seasonalCare": "Woodles are generally low-shedding year-round, though wiry-coated individuals may shed slightly more than curly-coated ones. In summer, the dense coat can trap heat, so keep the body trimmed while maintaining the characteristic Terrier beard and eyebrow shape. Winter coats may grow denser and require more frequent brushing. Seasonal allergies can cause skin irritation that hides under the dense coat -- check the skin regularly during allergy season.",
+    "maintenanceSchedule": "Professional grooming every 5-7 weeks, with hand-stripping sessions for wiry coats. Brushing every other day minimum. Beard cleaning after every meal. Ear cleaning and hair removal weekly. Nail trims every 3-4 weeks. Eyebrow and beard shaping between grooms as needed."
+  },
+  "Shorkie": {
+    "brushingRoutine": "Shorkies (Shih Tzu x Yorkshire Terrier) develop a fine, silky coat that can range from the Shih Tzu's dense, flowing double coat to the Yorkie's fine, straight, single-layer hair. Most Shorkies have a medium-length, silky coat that requires daily brushing with a pin brush and fine-tooth comb. The facial hair grows continuously and needs careful combing around the eyes and muzzle. A slicker brush can be used gently on tangles, but avoid pulling on this fine coat.",
+    "bathingTips": "Bathe every 2-3 weeks -- Shorkies with silky coats get dirty quickly and benefit from more frequent bathing than many small breeds. Use a silk-protein shampoo and lightweight conditioner to maintain the coat's smooth texture. Avoid heavy products that weigh down the fine hair. Blow-dry on low heat using a pin brush to prevent tangles from forming as the coat dries. Consider a topknot during bathing to keep facial hair out of the eyes.",
+    "commonIssues": [
+      "Tear staining and eye irritation from facial hair growing into the eyes",
+      "Fine coat that tangles and breaks easily with rough handling",
+      "Dental overcrowding and periodontal disease common in both parent breeds",
+      "Ear infections from profuse ear hair inherited from both breeds",
+      "Skin sensitivity to grooming products, especially fragranced ones"
+    ],
+    "extendResults": "Keep the facial hair trimmed around the eyes every 1-2 weeks to prevent irritation and staining. Use a leave-in silk spray daily to protect the fine coat from tangling and breakage. Clean tear stains with a pet-safe solution daily. A small topknot or bow keeps facial hair controlled between trims. Apply a paw balm weekly as Shorkies tend to have dry, sensitive paw pads.",
+    "seasonalCare": "Shorkies shed minimally year-round thanks to both parent breeds having hair-like coats rather than fur. Seasonal changes are minimal, but summer humidity can cause the fine coat to frizz and tangle faster. In winter, the coat may become dry and brittle from indoor heating -- increase conditioning treatments and consider a humidifier. Shorkies chill easily in cold weather and may need a coat or sweater for outdoor walks.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks. Daily brushing with pin brush and comb. Facial hair trim every 1-2 weeks. Tear stain cleaning daily. Dental care 4-5 times weekly. Ear cleaning weekly. Nail trims every 2-3 weeks."
+  },
+  "Morkie": {
+    "brushingRoutine": "Morkies (Maltese x Yorkshire Terrier) have a fine, silky, single-layer coat that can range from the Maltese's pure white flowing coat to the Yorkie's fine steel-blue and tan hair. Daily brushing is essential with a pin brush, working gently through the fine coat to prevent breakage. Follow with a fine-tooth comb, paying special attention to behind the ears, under the armpits, and where harnesses create friction. The coat tangles rapidly and rough brushing causes damage.",
+    "bathingTips": "Bathe every 2-3 weeks with a gentle, brightening shampoo for lighter-colored Morkies or a silk-enhancing formula for darker coats. Use a lightweight detangling conditioner and comb through while wet for easiest tangle removal. Rinse extremely thoroughly as residue causes the fine coat to appear dull and greasy. Blow-dry on low heat with a pin brush to prevent tangles from setting as the hair dries.",
+    "commonIssues": [
+      "Severe tear staining, especially in Morkies with lighter facial coloring",
+      "Coat breakage from rough brushing or friction from collars and harnesses",
+      "Dental disease risk extremely high in this combination of tiny breeds",
+      "Hypoglycemia sensitivity in very small individuals -- watch for signs during grooming",
+      "Skin dryness and flaking from over-bathing the fine coat"
+    ],
+    "extendResults": "Switch to a harness instead of a collar to prevent coat breakage and matting around the neck. Apply a leave-in silk conditioner daily to protect the fine hair. Clean tear stains with a pet-safe wipe at least once daily for lighter-colored Morkies. Keep the coat trimmed to a manageable length if daily brushing is challenging -- a puppy cut reduces maintenance while keeping the Morkie looking adorable. Use a silk pillowcase or satin bed liner to reduce friction-based tangles.",
+    "seasonalCare": "Morkies shed very little year-round, making them a consistent grooming commitment across all seasons. In summer, a shorter trim keeps the dog comfortable and reduces the risk of heat-related skin issues. In winter, the fine coat provides little insulation -- Morkies need a sweater or coat for outdoor activities and extra moisturizing treatments to combat dry indoor air. Seasonal allergies may increase tear staining and skin sensitivity.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks. Daily brushing with pin brush and fine comb. Tear stain cleaning daily. Dental care daily if possible, minimum 4 times weekly. Ear cleaning weekly. Nail trims every 2-3 weeks. Topknot or face trim as needed."
+  },
+  "Puggle": {
+    "brushingRoutine": "Puggles (Pug x Beagle) have a short, dense, double coat that is relatively low-maintenance but sheds more than many owners expect. Brush 2-3 times per week with a rubber curry brush or grooming mitt to remove loose hair and distribute natural oils. A bristle brush works well for finishing. Despite the short coat, regular brushing significantly reduces the amount of hair around the home and keeps the coat healthy and shiny.",
+    "bathingTips": "Bathe every 6-8 weeks unless particularly dirty or smelly. Use a mild, hypoallergenic shampoo as both parent breeds can have sensitive skin. A deshedding shampoo and conditioner helps manage the constant low-level shedding. Dry thoroughly with a towel and low-heat dryer, paying attention to facial folds inherited from the Pug side. Ensure all wrinkles are completely dry to prevent bacterial and yeast growth.",
+    "commonIssues": [
+      "Facial fold dermatitis from Pug-inherited wrinkles trapping moisture and bacteria",
+      "Persistent shedding year-round that exceeds expectations for a short-coated dog",
+      "Skin allergies and food sensitivities common in both parent breeds",
+      "Ear infections from the Beagle's long, floppy ears trapping moisture",
+      "Obesity tendency that can cause skin fold issues to worsen"
+    ],
+    "extendResults": "Clean facial folds daily with a pet-safe wipe and apply a thin layer of cornstarch or fold balm to keep them dry. Use a rubber curry brush or grooming glove during petting sessions to manage shedding without formal grooming sessions. Keep the ear flaps clean and dry, especially after water exposure. Maintain a healthy weight to reduce skin fold severity and overall skin health. Use a deshedding spray weekly between baths.",
+    "seasonalCare": "Puggles shed moderately year-round with noticeable increases in spring and fall as the double coat transitions. During these periods, increase brushing to daily with a deshedding tool. In summer, be aware that Puggles with flatter Pug-like faces have brachycephalic breathing concerns in heat -- keep grooming sessions cool and brief. In winter, the coat thickens slightly and shedding decreases but does not stop.",
+    "maintenanceSchedule": "Professional grooming or deshedding bath every 6-8 weeks. Brushing 2-3 times weekly, daily during shedding seasons. Facial fold cleaning daily. Ear cleaning weekly. Nail trims every 3-4 weeks. Weight monitoring at each grooming visit."
+  },
+  "Chorkie": {
+    "brushingRoutine": "Chorkies (Chihuahua x Yorkshire Terrier) can have coats ranging from the Chihuahua's smooth short coat to the Yorkie's long, silky flowing hair, with many developing a medium-length, slightly wavy texture. Smooth-coated Chorkies need gentle brushing 2-3 times weekly with a soft bristle brush. Long-coated Chorkies need daily brushing with a pin brush and fine-tooth comb. Handle with extreme gentleness due to their tiny size.",
+    "bathingTips": "Bathe every 3-4 weeks with a gentle, tearless shampoo for small breeds. Long-coated Chorkies benefit from a lightweight silk conditioner. Keep bath time brief and warm, as these tiny dogs chill very quickly. Wrap in a warm towel immediately after rinsing and blow-dry on the lowest heat setting. For smooth-coated Chorkies, a quick bath with minimal product is sufficient.",
+    "commonIssues": [
+      "Tear staining from both parent breeds' eye structure",
+      "Dental problems and overcrowding in the tiny jaw",
+      "Temperature sensitivity -- chills easily during and after grooming",
+      "Molera (soft spot on skull) in some individuals requiring gentle head handling",
+      "Anxiety during grooming due to small size and sensitivity"
+    ],
+    "extendResults": "Clean tear stains daily with a gentle wipe. For long-coated Chorkies, apply a light detangling spray before each brushing to minimize breakage. Keep a small blanket or towel nearby during grooming for warmth between steps. Use positive reinforcement and short grooming sessions to build confidence. Trim facial hair around the eyes every 1-2 weeks to prevent irritation.",
+    "seasonalCare": "Smooth-coated Chorkies shed lightly year-round with minor seasonal increases. Long-coated Chorkies shed minimally. Both types are extremely cold-sensitive and need sweaters or coats in any cool weather. In summer, keep long coats trimmed for comfort but avoid full shaves that expose delicate skin to sun. In winter, increase moisturizing treatments and protect from cold drafts during grooming.",
+    "maintenanceSchedule": "Professional grooming every 4-6 weeks for long coats, every 6-8 weeks for smooth coats. Daily brushing for long coats, 2-3 times weekly for smooth. Tear stain cleaning daily. Dental care daily. Nail trims every 2-3 weeks. Ear cleaning weekly."
+  },
+  "Chiweenie": {
+    "brushingRoutine": "Chiweenies (Chihuahua x Dachshund) typically have a short, smooth coat, though long-haired Dachshund parentage can produce a medium-length, slightly wavy coat. Short-coated Chiweenies need brushing 1-2 times weekly with a soft bristle brush or rubber grooming mitt. Long-coated Chiweenies need brushing 3-4 times weekly with a pin brush, focusing on the ear feathering, chest, and belly where tangles form. Both types are small and should be handled gently.",
+    "bathingTips": "Bathe every 6-8 weeks for short coats, every 4-6 weeks for long coats. Use a gentle, moisturizing shampoo as both parent breeds have skin that tends toward dryness. Avoid over-bathing as it strips the natural oils that keep the coat healthy and shiny. Long-coated Chiweenies benefit from a light conditioner on feathered areas. Dry thoroughly and keep warm, as the small body and long torso lose heat quickly.",
+    "commonIssues": [
+      "Back sensitivity from the Dachshund's elongated spine -- support the back during grooming",
+      "Dry, flaky skin common in both parent breeds",
+      "Dental overcrowding and disease in the small jaw",
+      "Anxiety and resistance during grooming from both breeds' stubborn temperament",
+      "Ear infections in longer-eared individuals inherited from the Dachshund"
+    ],
+    "extendResults": "Always support the Chiweenie's back during handling -- never let them jump on or off grooming tables. Use a grooming mitt during cuddle time to manage light shedding without formal sessions. Apply a skin-soothing spray or light coconut oil to combat dry skin between baths. Keep nails trimmed consistently as overgrown nails exacerbate back stress on this long-bodied breed. Clean ears weekly, especially in floppy-eared individuals.",
+    "seasonalCare": "Short-coated Chiweenies shed lightly year-round. Long-coated individuals shed moderately with slight seasonal increases. Both types are very cold-sensitive and need protective clothing in cool weather. In summer, the short coat offers minimal sun protection -- apply pet-safe sunscreen on thin-coated or light-skinned areas. In winter, increase skin moisturizing and provide warm bedding to prevent dry, itchy skin.",
+    "maintenanceSchedule": "Professional grooming every 6-8 weeks for short coats, every 4-6 weeks for long coats. Brushing 1-4 times weekly depending on coat type. Ear cleaning weekly. Dental care daily. Nail trims every 2-3 weeks. Back health check at every grooming appointment. Skin conditioning as needed."
+  },
+  "Goldador": {
+    "brushingRoutine": "Goldadors (Golden Retriever x Labrador Retriever) inherit a dense double coat from both parent breeds, making them one of the heaviest-shedding designer breeds. Brush 3-4 times per week with a pin brush for the topcoat and an undercoat rake to manage the dense underlayer. During shedding seasons, daily brushing with a deshedding tool is necessary. Focus on the chest, thighs, and tail where the coat is thickest and feathering from the Golden Retriever side is most prominent.",
+    "bathingTips": "Bathe every 6-8 weeks with a deshedding shampoo and conditioner system to loosen dead undercoat. Both parent breeds have water-resistant coats with natural oils, so avoid over-bathing. Use a high-velocity dryer to blow out loose coat -- this is the most effective deshedding step. Follow with a thorough brush-out while the coat is still slightly damp for maximum loose hair removal.",
+    "commonIssues": [
+      "Heavy year-round shedding with dramatic seasonal coat blowouts",
+      "Ear infections common due to floppy ears from both parent breeds",
+      "Hot spots and skin irritation from moisture trapped in the dense coat",
+      "Matting in the chest and behind-ear feathering during coat transitions",
+      "Tendency toward oily coat that can develop a distinct odor between baths"
+    ],
+    "extendResults": "Use a rubber curry brush or grooming glove daily during casual petting to manage shedding passively. Keep the ear canal clean and dry, especially after swimming. Apply a deshedding spray before brushing sessions to lubricate the coat and improve loose hair removal. Trim the feathering on ears, chest, legs, and tail between professional grooms to reduce tangling. Wash bedding weekly during heavy shedding periods.",
+    "seasonalCare": "Goldadors blow their undercoat heavily in spring and fall, creating 4-6 weeks of intense shedding each time. Daily deshedding with an undercoat rake is essential during these periods. In summer, the coat thins naturally and a regular grooming routine manages the moderate shedding. Never shave a Goldador -- the double coat regulates temperature year-round. In winter, the coat thickens substantially and benefits from thorough weekly brush-outs.",
+    "maintenanceSchedule": "Professional deshedding bath and blowout every 6-8 weeks. Brushing 3-4 times weekly, daily during shedding seasons. Ear cleaning twice weekly. Nail trims every 3-4 weeks. Teeth cleaning 2-3 times weekly. Feathering trims as needed between grooms."
+  },
+  "Labsky": {
+    "brushingRoutine": "Labskies (Labrador Retriever x Siberian Husky) carry a thick, dense double coat from both parent breeds, creating a coat that sheds prolifically. Brush 3-4 times per week with a pin brush and undercoat rake, working methodically through the entire body. During shedding seasons, daily sessions with a deshedding tool are essential. The neck ruff, thighs, and tail are the densest areas and need the most attention. A slicker brush helps smooth the topcoat after undercoat removal.",
+    "bathingTips": "Bathe every 6-10 weeks -- both parent breeds have natural coat oils that keep the coat clean and water-resistant. Use a deshedding shampoo to loosen undercoat and follow with a light conditioner. A high-velocity dryer is the single most important tool for this breed -- the force of air removes more loose undercoat than any brush can. Bathe more frequently during coat blowout to accelerate the shedding process.",
+    "commonIssues": [
+      "Extreme seasonal shedding that can fill garbage bags with loose undercoat",
+      "Undercoat matting and felting if not regularly maintained with an undercoat rake",
+      "Hot spots from moisture retention in the dense double coat",
+      "Strong prey drive and energy making grooming sessions challenging without exercise first",
+      "Dry, flaky skin from over-bathing or lack of essential fatty acids"
+    ],
+    "extendResults": "Invest in a quality deshedding tool and high-velocity dryer for home use -- these are essential for double-coated breeds this dense. Supplement with omega fatty acids to support coat health and reduce excessive shedding from the inside out. Schedule a professional deshedding bath and blowout at the midpoint between full grooms during shedding season. Exercise the dog thoroughly before grooming sessions to improve cooperation.",
+    "seasonalCare": "Labskies experience two dramatic coat blowouts per year, typically in spring and fall, each lasting 4-6 weeks. During spring blowout, the heavy winter undercoat sheds in clumps. Daily deshedding is critical. In summer, the coat naturally thins but never shave a Labsky -- the double coat provides critical insulation against heat and UV. In winter, the coat reaches peak density and fullness, requiring consistent brushing to prevent the undercoat from matting against the skin.",
+    "maintenanceSchedule": "Professional deshedding bath and groom every 6-8 weeks, with additional deshedding appointments during blowout season. Brushing 3-4 times weekly minimum, daily during shedding season. Ear cleaning weekly. Nail trims every 3-4 weeks. Paw pad checks weekly, especially in winter."
+  },
+  "Chusky": {
+    "brushingRoutine": "Chuskies (Chow Chow x Siberian Husky) inherit an exceptionally dense, plush double coat from both heavy-coated parent breeds, creating one of the most demanding coat types among designer breeds. Brush daily with a pin brush for the long topcoat and follow with an undercoat rake to manage the dense, cotton-like underlayer. The neck ruff, hindquarters, and tail plume are the densest areas and require the most thorough attention. A wide-tooth comb helps separate the thick sections without pulling.",
+    "bathingTips": "Bathe every 6-10 weeks with a heavy-duty deshedding shampoo and a deep-conditioning treatment to keep the massive coat manageable. Both parent breeds have natural coat oils, so avoid frequent bathing. A high-velocity dryer is absolutely essential -- this coat can take 60+ minutes to dry completely and must not be left damp. Consider a two-shampoo process: first wash to remove dirt, second wash with deshedding formula.",
+    "commonIssues": [
+      "Extreme coat density that can hide skin problems until they become severe",
+      "Dramatic seasonal coat blowouts that are among the heaviest of any breed mix",
+      "Matting deep in the undercoat that can form felt-like sheets against the skin",
+      "Overheating risk in warm climates due to the insulating coat",
+      "Resistance to grooming from Chow Chow temperament -- early training is critical"
+    ],
+    "extendResults": "Schedule professional deshedding sessions every 3-4 weeks during coat blowout instead of trying to manage it entirely at home. Use a long-tooth undercoat rake daily during shedding season and every other day otherwise. Keep the sanitary area, paw pads, and ear area trimmed at home for hygiene. Supplement with omega-3 and omega-6 fatty acids for coat health. Use a cooling mat and provide shade during any outdoor grooming in warm weather.",
+    "seasonalCare": "Chuskies experience some of the most dramatic seasonal shedding of any breed combination, blowing coat heavily in spring and fall for 4-8 weeks each time. In spring, tufts of undercoat shed in large clumps and daily raking is the minimum. In summer, never shave a Chusky -- the coat insulates from heat. Keep them indoors during peak heat with air conditioning. In winter, the coat reaches maximum thickness and looks spectacular but needs thorough daily brushing to prevent matting.",
+    "maintenanceSchedule": "Professional deshedding groom every 6-8 weeks, with additional deshedding appointments every 3-4 weeks during blowout season. Daily brushing year-round, no exceptions. Ear cleaning weekly. Nail trims every 3-4 weeks. Skin checks monthly (hard to see under the coat). Paw pad trims every 3 weeks."
+  },
+  "Goberian": {
+    "brushingRoutine": "Goberians (Golden Retriever x Siberian Husky) carry a thick double coat from both parent breeds, often with the Golden's feathering and the Husky's plush density. Brush 3-4 times per week with a pin brush and undercoat rake. During shedding season, daily brushing is essential. Focus on the neck ruff, chest feathering, thighs, and tail plume where the coat is densest. A slicker brush works well for smoothing the topcoat after undercoat removal.",
+    "bathingTips": "Bathe every 6-8 weeks with a deshedding shampoo and conditioner. Both parent breeds have water-resistant coats with natural oils, so infrequent bathing is ideal. A high-velocity dryer is critical for blowing out loose undercoat -- this is where the most effective deshedding happens. During coat blowout, a professional deshedding bath and blowout is one of the best investments you can make.",
+    "commonIssues": [
+      "Heavy shedding year-round with extreme seasonal blowouts from double-coated parents",
+      "Matting in the feathered areas behind ears, chest, and legs",
+      "Hot spots from moisture trapped in the dense coat after swimming or rain",
+      "Ear infections from floppy or semi-erect ears depending on parent influence",
+      "Sun bleaching of the coat in lighter-colored Goberians during summer"
+    ],
+    "extendResults": "Use a deshedding spray before every brushing session to loosen coat and protect against breakage. Keep the feathered areas (ears, chest, legs, tail) trimmed between professional grooms to reduce matting. Dry the coat thoroughly after any water exposure -- swimming, rain, or baths. A rubber curry brush during daily petting sessions passively manages shedding. Wash dog bedding weekly during heavy shedding periods.",
+    "seasonalCare": "Goberians blow coat heavily twice a year in spring and fall, with shedding that can last 4-6 weeks each time. Daily deshedding with an undercoat rake is mandatory during these periods. In summer, the coat thins naturally but never shave a Goberian. Provide shade and water access and consider a cooling vest for outdoor activity. In winter, the coat thickens dramatically and looks its best but requires consistent brushing to prevent undercoat felting.",
+    "maintenanceSchedule": "Professional deshedding groom every 6-8 weeks, with additional deshedding baths during blowout season. Brushing 3-4 times weekly, daily during shedding seasons. Ear cleaning weekly. Nail trims every 3-4 weeks. Feathering trims between grooms. Post-swim drying every time."
+  },
+  "Pitsky": {
+    "brushingRoutine": "Pitskies (American Pit Bull Terrier x Siberian Husky) can have coats ranging from the Pit Bull's short, smooth single coat to the Husky's thick double coat, with many developing a medium-length, dense coat that is a blend of both. Short-coated Pitskies need brushing 2-3 times weekly with a rubber curry brush or bristle brush. Double-coated individuals need brushing 3-4 times weekly with a slicker brush and undercoat rake. The coat type can vary significantly even within the same litter.",
+    "bathingTips": "Bathe every 6-8 weeks for both coat types. Short-coated Pitskies do well with a general-purpose shampoo. Double-coated Pitskies should use a deshedding shampoo and conditioner. Pitskies with more Pit Bull skin may benefit from a hypoallergenic or oatmeal-based shampoo as skin allergies are common. Dry thoroughly, especially double-coated individuals where trapped moisture leads to problems.",
+    "commonIssues": [
+      "Skin allergies and sensitivities common from both parent breeds",
+      "Unpredictable shedding levels depending on coat type inheritance",
+      "Strong, muscular build requiring confident handling during grooming",
+      "Dry skin and hot spots, particularly in short-coated individuals",
+      "Nail thickness requiring heavy-duty trimmers"
+    ],
+    "extendResults": "For short-coated Pitskies, a rubber curry brush used during petting manages shedding effectively. For double-coated individuals, a deshedding tool every few days keeps the undercoat manageable. Supplement with omega fatty acids to support skin health and reduce allergy flare-ups. Use a hypoallergenic grooming wipe between baths to manage skin sensitivity. Keep nails trimmed every 2 weeks as their thick nails can split if overgrown.",
+    "seasonalCare": "Double-coated Pitskies shed heavily in spring and fall, while short-coated individuals shed moderately year-round. During shedding season, increase brushing to daily for double coats. In summer, short-coated Pitskies may need pet-safe sunscreen on lighter-skinned areas. Never shave double-coated Pitskies. In winter, short-coated individuals may need a coat for outdoor activity, while double-coated Pitskies thrive in cold weather.",
+    "maintenanceSchedule": "Professional grooming every 6-8 weeks. Brushing 2-4 times weekly depending on coat type, daily during shedding season for double coats. Skin and allergy checks weekly. Ear cleaning weekly. Nail trims every 2-3 weeks. Teeth cleaning 2-3 times weekly."
+  },
+  "Horgi": {
+    "brushingRoutine": "Horgis (Siberian Husky x Corgi) inherit a thick double coat from both parent breeds. The combination creates a dense, plush coat on a compact, low-to-the-ground body. Brush 3-4 times per week with a pin brush and undercoat rake. During shedding season, daily brushing is mandatory. The thick ruff around the neck, dense hindquarters, and fluffy tail need the most attention. A deshedding tool helps manage the impressive undercoat volume.",
+    "bathingTips": "Bathe every 6-8 weeks with a deshedding shampoo and conditioner. Both parent breeds have natural coat oils that should not be stripped with frequent bathing. Use a high-velocity dryer to blow out loose undercoat -- this is essential for the dense double coat. Pay extra attention to drying the belly and underside, which stay damp longer due to the low body clearance.",
+    "commonIssues": [
+      "Heavy shedding from two heavily-shedding double-coated parent breeds",
+      "Dirt and debris collection on the belly due to low ground clearance from Corgi build",
+      "Back sensitivity from Corgi's elongated spine -- support during grooming",
+      "Dense undercoat matting quickly if maintenance is skipped",
+      "Temperature regulation challenges in hot climates with this dense coat on a small body"
+    ],
+    "extendResults": "Keep the belly coat trimmed shorter to reduce debris collection from ground contact. Use a belly band or grooming wipe after outdoor sessions to manage dirt buildup. Support the Horgi's back during grooming -- never let them jump on or off tables. A deshedding spray before every session makes undercoat removal more effective. Schedule a professional deshedding blowout at mid-cycle during shedding season for significant relief.",
+    "seasonalCare": "Horgis blow their undercoat heavily twice a year, combining the shedding intensity of both Husky and Corgi. Spring and fall coat blowouts last 4-6 weeks each. Daily deshedding with an undercoat rake is essential during these periods. In summer, never shave a Horgi -- the double coat insulates. Their low body absorbs more ground heat, so keep them cool and off hot surfaces. In winter, the coat thickens beautifully but needs consistent brushing to prevent matting.",
+    "maintenanceSchedule": "Professional deshedding groom every 6-8 weeks, with additional deshedding appointments during blowout. Brushing 3-4 times weekly, daily during shedding seasons. Belly wipe-downs after outdoor play. Ear cleaning weekly. Nail trims every 2-3 weeks. Back health awareness during all handling."
+  },
+  "Cheagle": {
+    "brushingRoutine": "Cheagles (Chihuahua x Beagle) typically have a short, dense coat that blends the Chihuahua's smooth coat with the Beagle's slightly coarser double coat. Brush 2-3 times per week with a bristle brush or rubber grooming mitt. For Cheagles with slightly longer coats from long-haired Chihuahua parentage, increase to 3-4 times weekly and add a slicker brush for any feathering. The coat is easy to maintain but sheds more than most owners expect from a small dog.",
+    "bathingTips": "Bathe every 6-8 weeks with a gentle, hypoallergenic shampoo. Both parent breeds have sensitive skin, so avoid heavily fragranced products. A deshedding shampoo helps during shedding periods. Rinse thoroughly and dry completely, paying attention to the Beagle-influenced floppy ears that trap moisture. These small dogs chill easily, so keep baths warm and brief.",
+    "commonIssues": [
+      "Ear infections from the Beagle's floppy ear structure trapping moisture and debris",
+      "Dental overcrowding from the Chihuahua's small jaw",
+      "Skin allergies that can cause scratching and hot spots",
+      "Persistent shedding that surprises owners expecting a low-shedding small dog",
+      "Strong Beagle scent that can develop between baths if ears and skin folds are not maintained"
+    ],
+    "extendResults": "Clean the ears weekly with a veterinary-approved solution to prevent the infections common with floppy-eared breeds. Use a rubber grooming mitt during daily petting for passive shedding management. Apply a light moisturizing spray if the skin appears dry or flaky. Keep dental hygiene consistent with daily brushing or dental chews. Wipe facial wrinkles if present to prevent irritation.",
+    "seasonalCare": "Cheagles shed moderately year-round with increases in spring and fall as the double coat transitions. During shedding seasons, increase brushing to daily with a deshedding tool. In summer, the short coat provides minimal sun protection for lighter-colored Cheagles -- consider pet-safe sunscreen on exposed areas. In winter, Cheagles may need a sweater for outdoor walks due to their small size and short coat.",
+    "maintenanceSchedule": "Professional grooming or deshedding bath every 6-8 weeks. Brushing 2-3 times weekly, daily during shedding seasons. Ear cleaning weekly. Dental care daily. Nail trims every 3-4 weeks. Skin check weekly for allergies."
+  },
+  "Boxador": {
+    "brushingRoutine": "Boxadors (Boxer x Labrador Retriever) have a short to medium-length dense coat that sheds moderately to heavily depending on which parent's coat dominates. Most Boxadors have a sleek, slightly dense coat that benefits from brushing 2-3 times per week with a rubber curry brush, bristle brush, or grooming mitt. For Boxadors with more Lab-like density and undercoat, add a deshedding tool to the routine. The coat is generally easy to maintain but sheds consistently.",
+    "bathingTips": "Bathe every 6-8 weeks with a mild, moisturizing shampoo. Boxadors with more Boxer influence may have sensitive skin that benefits from oatmeal-based or hypoallergenic formulas. A deshedding shampoo and conditioner helps manage the Lab's undercoat contribution. Dry thoroughly, paying attention to any facial wrinkles inherited from the Boxer side. These athletic dogs generally tolerate bathing well.",
+    "commonIssues": [
+      "Moderate to heavy shedding year-round from the Lab's double coat influence",
+      "Skin allergies common from both parent breeds",
+      "Facial fold irritation if Boxer wrinkles are inherited",
+      "Ear infections from the Lab's floppy ears",
+      "Oily coat tendency that can develop odor between baths"
+    ],
+    "extendResults": "A rubber curry brush during daily interactions manages shedding effectively without dedicated grooming sessions. Clean any facial folds daily to prevent bacterial buildup. Use a deodorizing spray between baths to manage coat odor, especially in warmer months. Keep the ears clean and dry, particularly after swimming. Supplement with omega fatty acids for coat health and allergy management.",
+    "seasonalCare": "Boxadors shed moderately year-round with heavier shedding in spring and fall from the Lab's double coat influence. During these periods, increase brushing to daily and add a deshedding tool. In summer, Boxadors with Boxer-influenced flat faces may overheat more easily -- keep grooming sessions in cool environments. Lighter-colored Boxadors may need sunscreen on the nose and thin-coated areas. In winter, the coat thickens slightly and shedding decreases.",
+    "maintenanceSchedule": "Professional grooming or deshedding bath every 6-8 weeks. Brushing 2-3 times weekly, daily during shedding seasons. Facial fold cleaning daily if applicable. Ear cleaning weekly. Nail trims every 3-4 weeks. Teeth cleaning 2-3 times weekly."
+  },
+  "Shepsky": {
+    "brushingRoutine": "Shepskies (German Shepherd x Siberian Husky) inherit a thick, dense double coat from two of the heaviest-shedding breeds, creating a grooming-intensive combination. Brush 4-5 times per week minimum with a pin brush for the long topcoat and an undercoat rake for the dense underlayer. During shedding season, daily sessions are non-negotiable. The neck ruff, hindquarters (German Shepherd pants), and tail plume are the thickest areas. A long-tooth deshedding tool helps manage the impressive undercoat volume.",
+    "bathingTips": "Bathe every 6-8 weeks with a professional deshedding shampoo and conditioner system. Both parent breeds have self-maintaining coats with natural oils, so resist the urge to bathe more frequently. A high-velocity dryer is essential -- this coat can take 45-60 minutes to dry and the blowout process removes more undercoat than any amount of brushing. During coat blowout, an additional professional deshedding bath at the midpoint is highly recommended.",
+    "commonIssues": [
+      "Among the heaviest-shedding designer breed combinations -- shedding is extreme and constant",
+      "Dense undercoat matting that can form solid sheets against the skin if neglected",
+      "Hip and joint sensitivity from German Shepherd genetics requiring careful positioning during grooming",
+      "Skin allergies and hot spots common when the dense coat traps moisture or debris",
+      "German Shepherd skin conditions (folliculitis, seborrhea) that hide under the thick coat"
+    ],
+    "extendResults": "A deshedding routine every 2-3 days is the single most important thing you can do for this coat. Use a deshedding spray before every session to condition the coat and ease undercoat removal. Keep the paw pads, sanitary areas, and ear hair trimmed at home between grooms. Invest in a high-velocity dryer for home use -- it pays for itself in reduced shedding around the house. Supplement with omega-3 fatty acids for coat and skin health.",
+    "seasonalCare": "Shepskies experience two of the most dramatic coat blowouts of any breed combination, shedding massive amounts of undercoat in spring and fall for 4-8 weeks each time. Daily deshedding is mandatory during blowout. In summer, never shave a Shepsky -- the double coat protects against heat and sunburn. Provide air conditioning and shade during hot months. In winter, the coat reaches peak density and looks majestic but requires thorough brushing every other day minimum to prevent matting.",
+    "maintenanceSchedule": "Professional deshedding groom every 6-8 weeks, with additional deshedding baths during coat blowout. Brushing 4-5 times weekly minimum, daily during shedding seasons. Ear cleaning weekly. Nail trims every 3-4 weeks. Skin inspections monthly. Paw pad trims every 3 weeks."
+  },
+  "Corgidor": {
+    "brushingRoutine": "Corgidors (Corgi x Labrador Retriever) combine two heavily-shedding double-coated breeds, resulting in a medium-length, dense coat that sheds significantly. Brush 3-4 times per week with a pin brush and undercoat rake. During shedding seasons, daily brushing is essential. The Corgi's thick ruff combined with the Lab's dense undercoat creates a coat that feels deceptively thick on a medium-sized, low-to-the-ground body. Focus on the hindquarters, chest, and neck ruff where the coat is densest.",
+    "bathingTips": "Bathe every 6-8 weeks with a deshedding shampoo and conditioner system. Both parent breeds have water-resistant coats with natural oils. Use a high-velocity dryer to blow out loose undercoat -- this step is critical for this double-coated mix. Pay attention to the belly and underside, which stay damp longer due to the Corgi-influenced lower ground clearance. A towel-dry is never sufficient for this coat density.",
+    "commonIssues": [
+      "Heavy shedding year-round from two of the most prolific shedding breeds",
+      "Back sensitivity from the Corgi's elongated spine requiring careful handling",
+      "Dirt and moisture trapping on the low-hanging belly coat",
+      "Ear infections from the Lab's floppy ears on a potentially smaller head",
+      "Weight management concerns that worsen coat health and skin fold issues"
+    ],
+    "extendResults": "Keep the belly trimmed shorter to reduce debris collection from the low body clearance. Support the dog's back at all times during grooming -- never allow jumping on or off surfaces. Use a rubber curry brush during daily petting to passively manage the constant shedding. Clean and dry the ears twice weekly, especially after water play. Schedule a professional deshedding blowout at mid-cycle during heavy shedding seasons.",
+    "seasonalCare": "Corgidors shed heavily year-round with extreme blowouts in spring and fall from both parent breeds' double coats. Daily deshedding with an undercoat rake during these 4-6 week periods is mandatory. In summer, never shave a Corgidor -- the double coat provides essential insulation. The low body picks up ground heat, so keep them off hot surfaces. In winter, the coat thickens considerably and requires consistent brushing to prevent the dense undercoat from felting against the skin.",
+    "maintenanceSchedule": "Professional deshedding groom every 6-8 weeks, with additional deshedding appointments during coat blowout. Brushing 3-4 times weekly, daily during shedding seasons. Belly wipe-downs after outdoor play. Ear cleaning twice weekly. Nail trims every 2-3 weeks. Back health awareness during all handling. Weight monitoring at each visit."
   }
 }
